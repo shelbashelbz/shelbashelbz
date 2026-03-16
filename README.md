@@ -1,11 +1,18 @@
-## Hi there 👋
+I'm Shelby
 
+I am currently finding my footing in the ginormous realm that is IT and I am interested in:
+
+Emerging AI, Governance and Ethics, UX/UI as well as Security and Networking. 
+
+I am scheduled to take (and hopefully pass) my Cisco AI Technical Practitioner exam on 3/21/26. Alongside that I am also studying for my CCNA.
+
+I would like to make some female acquaintances and friends along the way as well. 
 <!--
 **shelbashelbz/shelbashelbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
