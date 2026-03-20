@@ -1,23 +1,40 @@
-I'm Shelby
+Hello, I'm Shelby  🎓✨    
 
-I am currently finding my footing in the ginormous realm that is IT and I am interested in:
+I am currently finding my footing in the vast world of IT and I am especially drawn to where ai, ethics, security and human centered design meet. 
 
-Emerging AI, Governance and Ethics, UX/UI as well as Security and Networking. 
+💚 What I am passionate about
 
-I am scheduled to take (and hopefully pass) my Cisco AI Technical Practitioner exam on 3/21/26. Alongside that I am also studying for my CCNA.
+ I care deeply about how emerging technologies are impacting real people - especially those who are marginalized or at risk of exploitation. My long term goal is to work in digital safety, AI governance, or ethical tech, helping to build systems that are transparent, responsible and grounded in trauma-informed principles.
 
-I would like to make some female acquaintances and friends along the way as well. 
-<!--
-**shelbashelbz/shelbashelbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Current Focus
+  
+-	Preparing for the Cisco AI Technical Practitioner exam (3/21/26)
 
-Here are some ideas to get you started:
+-	Studying for the CCNA and SEC +
 
-- 🔭I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-	Exploring AI ethics, governance, and responsible design
+
+- Learning security fundamentals to support safer AI workflows
+
+- Researching how technology can support victim advocacy and harm prevention
+
+
+🛠️ What I’m building
+
+I’m creating a series of small GitHub projects that explore:
+
+- 	Ethical AI use policies
+
+-	Trauma‑informed AI prompt design
+
+-	Digital safety workflows
+
+- 	Security‑aware systems for advocacy environments
+
+
+These projects help me blend my interests in AI, UX, and security with my commitment to protecting people from digital harm.
+
+
+💜 Community
+
+I’d love to connect with other women in tech — especially those passionate about victim advocacy, ethical AI, or digital forensics.
